@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react_food_order_app/static/css/main.9bcefa16.chunk.css",
-    "main.js": "/react_food_order_app/static/js/main.b58d4283.chunk.js",
-    "main.js.map": "/react_food_order_app/static/js/main.b58d4283.chunk.js.map",
+    "main.js": "/react_food_order_app/static/js/main.96c5042d.chunk.js",
+    "main.js.map": "/react_food_order_app/static/js/main.96c5042d.chunk.js.map",
     "runtime-main.js": "/react_food_order_app/static/js/runtime-main.f96f52e5.js",
     "runtime-main.js.map": "/react_food_order_app/static/js/runtime-main.f96f52e5.js.map",
-    "static/js/2.3e9ba435.chunk.js": "/react_food_order_app/static/js/2.3e9ba435.chunk.js",
-    "static/js/2.3e9ba435.chunk.js.map": "/react_food_order_app/static/js/2.3e9ba435.chunk.js.map",
+    "static/js/2.fe30c2b3.chunk.js": "/react_food_order_app/static/js/2.fe30c2b3.chunk.js",
+    "static/js/2.fe30c2b3.chunk.js.map": "/react_food_order_app/static/js/2.fe30c2b3.chunk.js.map",
     "index.html": "/react_food_order_app/index.html",
     "static/css/main.9bcefa16.chunk.css.map": "/react_food_order_app/static/css/main.9bcefa16.chunk.css.map",
-    "static/js/2.3e9ba435.chunk.js.LICENSE.txt": "/react_food_order_app/static/js/2.3e9ba435.chunk.js.LICENSE.txt",
+    "static/js/2.fe30c2b3.chunk.js.LICENSE.txt": "/react_food_order_app/static/js/2.fe30c2b3.chunk.js.LICENSE.txt",
     "static/media/meals.2971f633.jpg": "/react_food_order_app/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f96f52e5.js",
-    "static/js/2.3e9ba435.chunk.js",
+    "static/js/2.fe30c2b3.chunk.js",
     "static/css/main.9bcefa16.chunk.css",
-    "static/js/main.b58d4283.chunk.js"
+    "static/js/main.96c5042d.chunk.js"
   ]
 }
